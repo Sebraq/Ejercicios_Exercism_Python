@@ -7,4 +7,4 @@ def distance(strand_a,strand_b):
             errors+=1
     return errors
 
-print(distance("GGACGGATTCTG","AGGACGGATTCT"))
+#print(distance("GGACGGATTCTG","AGGACGGATTCT"))
