@@ -19,6 +19,4 @@ def rotate(text,key):
                     index-=26
                 cipher+=letters[index]
     return cipher
-
-
-
+#Source of help: https://youtu.be/QYng_rXg5OQ
